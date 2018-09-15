@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Srijan Forum</string>
+    <string name="text_card">sample text </string>
+
+    <string name="title_activity_expand_in_collapsing">ExpandInCollapsingActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
